@@ -1,4 +1,4 @@
-# jar-java-
+# jar打开方式自动添加java版本
 jar打开方式自动添加java版本
 
 1.jar包运行不了：多半是jar文件打开方式没关联到java
